@@ -1,0 +1,4 @@
+interface:
+  display_name: "Report Writing Style"
+  short_description: "Write clear reports with concise sections and diagrams"
+  default_prompt: "Use $write-report to write or revise this report in my preferred style: concise sections, useful tables, clear diagrams, and step-by-step explanations."
